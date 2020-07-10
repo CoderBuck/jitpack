@@ -1,0 +1,4 @@
+include ':lib-jar'
+include ':lib-aar'
+include ':app'
+rootProject.name = "jitpack"
